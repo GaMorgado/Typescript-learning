@@ -1,1 +1,1 @@
-Códigos que me ajudaram a entender a tipagem e outras features do typescript para um desenvolvimento mais prático
+Códigos que fiz para aprender typescript e como usar na prática

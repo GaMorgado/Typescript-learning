@@ -1,0 +1,3 @@
+O omit é um tipo que herda as características de uma interface podendo omitir qualquer atributo
+
+O pick é um tipo que escolhe as características de uma interface que deseja utilizar, o resto ele omite 
